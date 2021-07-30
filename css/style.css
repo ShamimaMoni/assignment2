@@ -1,0 +1,60 @@
+.penguin-intro img{
+    width:100%
+}
+.penguin-jacket img{
+    width: auto;
+    height: 100%;
+}
+
+.penguin-bottom img{
+    width:100%;
+}
+
+.penguin-charac{
+    border-radius: 1.2em;
+}
+
+.penguin-charac img{
+    width: 80px;
+    height: 75px;
+    margin-top: 1.5em;
+}
+
+.penguin-jacket{
+    height: 327px;
+    width: 334px;
+    background-color: #F1F1F1;
+    margin: 2.5em 2.5em 0 2.5em;
+    border-radius: 1.2em;
+}
+
+.penguin-btn{
+    border-radius: 1.2em;
+    background-color: rgb(164, 188, 70);
+    border: 0;
+}
+
+.penguin-cloth{
+    border:0;
+    border-radius: 1em;
+}
+
+.penguin-footer{
+    border: 0;
+    background-color: white;
+}
+
+.intro{
+    font-size: 60px;
+    color: #FABE4C;
+}
+
+header{
+    background-color: #fffbf0; ;
+}
+
+@media (max-width:768px) {
+    .media{
+        text-align: center;
+    }
+}
